@@ -14,15 +14,15 @@ Now click on next without changing anything until the window closes and the REST
 
 To ensure the data is updated daily with a local table, you will now set up a synchronization. Select the REST Data Source you just created. Now click on the field shown in the image:
 
-![](../../assets/Chapter-15/Maps_01.jpg)
+![](../../assets/Chapter-15/Karten_01.jpg)
 
 Now change nothing except the name and type **EarthquakeData** into the **Table Name** field. After clicking **Save** to save, you will encounter the options shown in the image. Click on the highlighted field:
 
-![](../../assets/Chapter-15/Maps_02.jpg)
+![](../../assets/Chapter-15/Karten_02.jpg)
 
 This way, you have created a table into which the data retrieved from the previously entered URL will be saved in the future. Now set the synchronization times for the data. To do this, click again on the fields marked in the next image:
 
-![](../../assets/Chapter-15/Maps_03.jpg)
+![](../../assets/Chapter-15/Karten_03.jpg)
 
 After clicking on the second field, a pop-up window opens where you can configure the synchronization. Since we want to refresh the data once a day, select **daily**. Fill in the **Execution Hour** and **Execution Minute** fields with any time. After clicking **Set Execution Interval**, click the **Save and Run** field, which will fill the created table with data once. Now the table will be updated daily.
 
@@ -35,23 +35,23 @@ Ensure you are now navigating to the application overview of the application you
 
 - Click on **Map** in the opened pop-up window and then click **Next**.
 
-![](../../assets/Chapter-15/Maps_04.jpg)
+![](../../assets/Chapter-15/Karten_04.jpg)
 
 - In the overview shown, enter any page name.  
 - Under **Local Database**, select the newly created table **EARTHQUAKEDATA** under **Table / View Name**.  
 - Disable the *Breadcrumb* in the Navigation section and click **Next**.
 
-![](../../assets/Chapter-15/Maps_05.jpg)  
+![](../../assets/Chapter-15/Karten_05.jpg)  
 
 In the next overview, you can choose between different display options for how the locations should be represented.
 - Since you are creating an overview of earthquakes, do not select **Points**, which would only mark the locations of the earthquakes, but select **Heat Map** to recognize the location and get an impression of the magnitude on the map later.
 
 - Now you only need to change the **Geometry-Column** field from the options displayed. Select the **Geometry** column there.
 
-![](../../assets/Chapter-15/Maps_06.jpg)
+![](../../assets/Chapter-15/Karten_06.jpg)
 
 After clicking on **Create Page**, you can start the application and navigate to the created page.
 
 There you will see all saved earthquakes and get an impression of their magnitude.
 
-![](../../assets/Chapter-15/Maps_07.jpg)
+![](../../assets/Chapter-15/Karten_07.jpg)
