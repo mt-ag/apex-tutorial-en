@@ -1,5 +1,5 @@
 # 📘 Oracle APEX 24.2 Tutorial  
-**by Hyand (formerly MT AG)**  
+**by Hyand GmbH**  
 🔗 Source: [GitHub Tutorial Repository](https://github.com/mt-ag/apex-tutorial-en)
 
 This tutorial provides a structured and practical introduction to Oracle APEX 24.2 — Oracle's powerful low-code platform for building scalable, data-driven web applications. It is designed for developers, consultants, and professionals looking to get hands-on experience across all key components of modern APEX development.
@@ -64,7 +64,7 @@ Each chapter focuses on a specific topic or feature and includes practical examp
 ## 👥 Author & Source
 
 This tutorial is authored and maintained by:  
-**[Hyand (formerly MT AG)](https://www.hyand.com)**  
+**[Hyand GmbH](https://www.hyand.com)**  
 📂 GitHub Repository: [https://github.com/mt-ag/apex-tutorial-en](https://github.com/mt-ag/apex-tutorial-en)
 
 ---
